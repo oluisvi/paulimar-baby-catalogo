@@ -1,6 +1,6 @@
 # PaulimarBaby — catálogo conceito
 
-Site conceitual independente da PaulimarBaby. A página mantém as categorias do catálogo compartilhado pela loja, mostra quatro exemplos com imagens reais do próprio catálogo e permite buscar ou navegar por categoria. Categorias sem exemplo nesta prévia mostram uma mensagem clara em vez de inventar produtos.
+Site conceitual independente da PaulimarBaby. A página mantém as categorias do catálogo compartilhado pela loja, mostra quatro exemplos com imagens reais do próprio catálogo e permite buscar ou navegar por categoria. Categorias sem exemplo nesta prévia mostram uma mensagem clara em vez de inventar produtos. A estrutura visual parte do mobile, com alvos de toque confortáveis e layouts maiores aplicados progressivamente.
 
 ## Conteúdo e limites
 
@@ -17,3 +17,4 @@ Abra `index.html`. O seletor no topo alterna entre três composições: Casa, Ni
 ## Publicação
 
 GitHub Pages por workflow em `.github/workflows/pages.yml`. Este repositório contém somente materiais da PaulimarBaby.
+
